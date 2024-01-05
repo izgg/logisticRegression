@@ -4,7 +4,7 @@ Author:
 
 Link to Notebook: [Notebook](https://colab.research.google.com/drive/1_8d5Bb3CyKQOSCclv-zLiCet21noeCi2?authuser=1#scrollTo=48uOnS-q__ue)
 
-Link to Slideshow Presentation: [Slideshow]()
+Link to Slideshow Presentation: [Slideshow](https://docs.google.com/presentation/d/1J53p0-xHDUiF3Nr1eCOXclAh3F-9OE5ZffplDbf_wPI/edit#slide=id.g1ee6196da71_0_1221)
 
 ## Introduction
 With the rise of social media, targeted advertising has become an increasing interest among large-scale coorporations. This project seeks to compare classification methods for targeted advertising, by analyzing whether a user's decision to buy a product after viewing an advertisement can be predicted from their personal attributes like age, gender and salary. The results could be valuable for reccomending a future model. 
