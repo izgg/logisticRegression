@@ -12,7 +12,7 @@ With the rise of social media, targeted advertising has become an increasing int
 ## Description of Dataset
 This project uses a Kaggle dataset with information collected from 400 users and their purchase decisions when viewing advertizements.  The data includes the user's ID, age, estimated salary, and gender, as well as their decision to purchase a product (with 0 representing not purchased, and 1 representing purchased).  The user's age, salary and gender were chosen as features to predict whether the product would be purchased. 
 
-## Data dictionary
+## Data Dictionary for [advertisements.csv](./advertisments.csv)
 
 |Feature|Type|Description|
 |---|---|---|
