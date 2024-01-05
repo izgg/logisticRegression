@@ -33,4 +33,4 @@ This project uses a Kaggle dataset with information collected from 400 users and
 
 ## Conclusion 
 
-Based on the results of the analysis, the Support Vector Classifier perfomed the best.  However, the values in the various confusion matrices 
+Based on the results of the analysis, the Support Vector Classifier perfomed the best.  
