@@ -4,7 +4,7 @@ Author:
 
 Link to Notebook: [Notebook](https://colab.research.google.com/drive/1_8d5Bb3CyKQOSCclv-zLiCet21noeCi2?authuser=1#scrollTo=48uOnS-q__ue)
 
-Link to Slideshow Presentation: [Slideshow](./A Comparison of Classification Models for the Advertisement Data Set.pdf)
+Link to Slideshow Presentation: [Slideshow](./A_Comparison_of_Classification_Models_for_the_Advertisement_Data_Set.pdf)
 
 ## Problem Statement
 With the rise of social media, targeted advertising has become an increasing interest among large-scale coorporations. This project seeks to compare classification methods for targeted advertising, by analyzing whether a user's decision to buy a product after viewing an advertisement can be predicted from their personal attributes of age, gender and salary. The results could be valuable for recomending a future model, and advising advertizers in the favorability of one model over another depending on thier needs. 
